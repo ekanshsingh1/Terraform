@@ -1,0 +1,3 @@
+output "myout" {
+  value = "Hello"
+}
