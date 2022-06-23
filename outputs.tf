@@ -3,5 +3,5 @@ output "myout" {
 }
 
 output "myout2" {
-  value = azurerm_resource_group.name.name
+  value = azurerm_resource_group.name.id
 }
